@@ -1,3 +1,3 @@
 def base_hash
-  hash = {key: }
+  hash = {key: "value"}
 end 
