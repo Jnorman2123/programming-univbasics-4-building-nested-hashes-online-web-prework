@@ -1,3 +1,3 @@
 def base_hash
-  hash = {railroads: "value"}
+  hash = {railroads: {}}
 end 
